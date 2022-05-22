@@ -1,0 +1,2448 @@
+fileFormatVersion: 2
+guid: 2e3728834b0d1c746b39ce6df4201166
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3707645238626887137
+    second: Enemies NPCs(1)_0
+  - first:
+      213: 7173340542745730069
+    second: Enemies NPCs(1)_1
+  - first:
+      213: 3643312577408848389
+    second: Enemies NPCs(1)_2
+  - first:
+      213: -5779508029448136235
+    second: Enemies NPCs(1)_3
+  - first:
+      213: -8765631432476584759
+    second: Enemies NPCs(1)_4
+  - first:
+      213: 2701087327340931272
+    second: Enemies NPCs(1)_5
+  - first:
+      213: 5181608152270281424
+    second: Enemies NPCs(1)_6
+  - first:
+      213: -9015902803798748626
+    second: Enemies NPCs(1)_7
+  - first:
+      213: 1345382448614472807
+    second: Enemies NPCs(1)_8
+  - first:
+      213: -7187387173768742446
+    second: Enemies NPCs(1)_9
+  - first:
+      213: 4865423067654548833
+    second: Enemies NPCs(1)_10
+  - first:
+      213: -8674927043599104244
+    second: Enemies NPCs(1)_11
+  - first:
+      213: -838345684806186222
+    second: Enemies NPCs(1)_12
+  - first:
+      213: -3207675202963253946
+    second: Enemies NPCs(1)_13
+  - first:
+      213: 9005863192918485153
+    second: Enemies NPCs(1)_14
+  - first:
+      213: -4099297844703973297
+    second: Enemies NPCs(1)_15
+  - first:
+      213: 9007600171155429015
+    second: Enemies NPCs(1)_16
+  - first:
+      213: -5118932320619604529
+    second: Enemies NPCs(1)_17
+  - first:
+      213: 3431897737268017218
+    second: Enemies NPCs(1)_18
+  - first:
+      213: -3895659779814083115
+    second: Enemies NPCs(1)_19
+  - first:
+      213: 3668536704998216342
+    second: Enemies NPCs(1)_20
+  - first:
+      213: 8288564680888367558
+    second: Enemies NPCs(1)_21
+  - first:
+      213: 3724452774499605114
+    second: Enemies NPCs(1)_22
+  - first:
+      213: -6203923174129514707
+    second: Enemies NPCs(1)_23
+  - first:
+      213: -6442606805775190608
+    second: Enemies NPCs(1)_24
+  - first:
+      213: -242184822949732480
+    second: Enemies NPCs(1)_25
+  - first:
+      213: 4824227420238036867
+    second: Enemies NPCs(1)_26
+  - first:
+      213: -822219575920489642
+    second: Enemies NPCs(1)_27
+  - first:
+      213: 4727581640600647286
+    second: Enemies NPCs(1)_28
+  - first:
+      213: 7583737794933899169
+    second: Enemies NPCs(1)_29
+  - first:
+      213: -2808724754100776286
+    second: Enemies NPCs(1)_30
+  - first:
+      213: 8753363863376938842
+    second: Enemies NPCs(1)_31
+  - first:
+      213: 6768545429707259309
+    second: Enemies NPCs(1)_32
+  - first:
+      213: 4831386340144336068
+    second: Enemies NPCs(1)_33
+  - first:
+      213: -7297755155413721049
+    second: Enemies NPCs(1)_34
+  - first:
+      213: 3821911223379829425
+    second: Enemies NPCs(1)_35
+  - first:
+      213: 3207274115652718371
+    second: Enemies NPCs(1)_36
+  - first:
+      213: -5659977047264389806
+    second: Enemies NPCs(1)_37
+  - first:
+      213: -6082943048078398472
+    second: Enemies NPCs(1)_38
+  - first:
+      213: -2274256955130640264
+    second: Enemies NPCs(1)_39
+  - first:
+      213: 2754319755615717967
+    second: Enemies NPCs(1)_40
+  - first:
+      213: -5036708635835836590
+    second: Enemies NPCs(1)_41
+  - first:
+      213: 4075223753483596787
+    second: Enemies NPCs(1)_42
+  - first:
+      213: -874972262964596757
+    second: Enemies NPCs(1)_43
+  - first:
+      213: 5711735739249298109
+    second: Enemies NPCs(1)_44
+  - first:
+      213: 8602881540486491507
+    second: Enemies NPCs(1)_45
+  - first:
+      213: 3608045016287883738
+    second: Enemies NPCs(1)_46
+  - first:
+      213: 6223319833809214014
+    second: Enemies NPCs(1)_47
+  - first:
+      213: -3863947908121186499
+    second: Enemies NPCs(1)_48
+  - first:
+      213: -4975532162077636359
+    second: Enemies NPCs(1)_49
+  - first:
+      213: 3184069805458723238
+    second: Enemies NPCs(1)_50
+  - first:
+      213: -5359215523354122793
+    second: Enemies NPCs(1)_51
+  - first:
+      213: 7622854403080150209
+    second: Enemies NPCs(1)_52
+  - first:
+      213: 4793239996342049468
+    second: Enemies NPCs(1)_53
+  - first:
+      213: 7996184596784667248
+    second: Enemies NPCs(1)_54
+  - first:
+      213: -6938525214506754628
+    second: Enemies NPCs(1)_55
+  - first:
+      213: 4016409904404535038
+    second: Enemies NPCs(1)_56
+  - first:
+      213: -4224777448224012308
+    second: Enemies NPCs(1)_57
+  - first:
+      213: 5796135619554599597
+    second: Enemies NPCs(1)_58
+  - first:
+      213: 2823564281370001981
+    second: Enemies NPCs(1)_59
+  - first:
+      213: -122441390240532326
+    second: Enemies NPCs(1)_60
+  - first:
+      213: 7583015668714043640
+    second: Enemies NPCs(1)_61
+  - first:
+      213: -3482297869740848650
+    second: Enemies NPCs(1)_62
+  - first:
+      213: 6707716421139629594
+    second: Enemies NPCs(1)_63
+  - first:
+      213: 8084649574892176615
+    second: Enemies NPCs(1)_64
+  - first:
+      213: -8824058662031935279
+    second: Enemies NPCs(1)_65
+  - first:
+      213: 5771457992146606296
+    second: Enemies NPCs(1)_66
+  - first:
+      213: -703861564790202329
+    second: Enemies NPCs(1)_67
+  - first:
+      213: 6256855677203697210
+    second: Enemies NPCs(1)_68
+  - first:
+      213: -6829942998926703820
+    second: Enemies NPCs(1)_69
+  - first:
+      213: 4826843823497550657
+    second: Enemies NPCs(1)_70
+  - first:
+      213: -3548914516363757223
+    second: Enemies NPCs(1)_71
+  - first:
+      213: 1787196107362994643
+    second: Enemies NPCs(1)_72
+  - first:
+      213: -2457300079961613603
+    second: Enemies NPCs(1)_73
+  - first:
+      213: 855570330900987828
+    second: Enemies NPCs(1)_74
+  - first:
+      213: 4001400990165302084
+    second: Enemies NPCs(1)_75
+  - first:
+      213: 4345081911836149897
+    second: Enemies NPCs(1)_76
+  - first:
+      213: -7245250787777729584
+    second: Enemies NPCs(1)_77
+  - first:
+      213: 8106237191589737201
+    second: Enemies NPCs(1)_78
+  - first:
+      213: 3849821621541169586
+    second: Enemies NPCs(1)_79
+  - first:
+      213: -5149953508333203381
+    second: Enemies NPCs(1)_80
+  - first:
+      213: 4899850102593960405
+    second: Enemies NPCs(1)_81
+  - first:
+      213: 2442727748278773303
+    second: Enemies NPCs(1)_82
+  - first:
+      213: -4796986110664879874
+    second: Enemies NPCs(1)_83
+  - first:
+      213: 7790610112135186526
+    second: Enemies NPCs(1)_84
+  - first:
+      213: -3522126679897363068
+    second: Enemies NPCs(1)_85
+  - first:
+      213: 4822781088381929219
+    second: Enemies NPCs(1)_86
+  - first:
+      213: 4081364794655931931
+    second: Enemies NPCs(1)_87
+  - first:
+      213: 4677844153378208555
+    second: Enemies NPCs(1)_88
+  - first:
+      213: 8576848248324645756
+    second: Enemies NPCs(1)_89
+  - first:
+      213: 4851066514421611661
+    second: Enemies NPCs(1)_90
+  - first:
+      213: 309527476046322763
+    second: Enemies NPCs(1)_91
+  - first:
+      213: 6834771290159009742
+    second: Enemies NPCs(1)_92
+  - first:
+      213: 3999625298092841499
+    second: Enemies NPCs(1)_93
+  - first:
+      213: 2364505195274324192
+    second: Enemies NPCs(1)_94
+  - first:
+      213: 2384933685844443303
+    second: Enemies NPCs(1)_95
+  - first:
+      213: -8289495771345223927
+    second: Enemies NPCs(1)_96
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 48
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5268953b3347330800000000000000
+      internalID: 3707645238626887137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 409
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c5447b733dc8360800000000000000
+      internalID: 7173340542745730069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 433
+        width: 146
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502da2e6c75af8230800000000000000
+      internalID: 3643312577408848389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 453
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d93081101bcfa0800000000000000
+      internalID: -5779508029448136235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 415
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c41c3b87a83a5680800000000000000
+      internalID: -8765631432476584759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 447
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8277dfc903c7520800000000000000
+      internalID: 2701087327340931272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 453
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da96514925c8e740800000000000000
+      internalID: 5181608152270281424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_7
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 439
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2290221b2411e280800000000000000
+      internalID: -9015902803798748626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 413
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf5b87532cba210800000000000000
+      internalID: 1345382448614472807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 432
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9b0542275414c90800000000000000
+      internalID: -7187387173768742446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 434
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d6a8d7084758340800000000000000
+      internalID: 4865423067654548833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_11
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 415
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0788d9c0d77c9780800000000000000
+      internalID: -8674927043599104244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_12
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 421
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b452a9a099d54f0800000000000000
+      internalID: -838345684806186222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_13
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 351
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645db8cd56c0c73d0800000000000000
+      internalID: -3207675202963253946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 378
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8ebaddbd04bfc70800000000000000
+      internalID: 9005863192918485153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 377
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4035e9445e5c17c0800000000000000
+      internalID: -4099297844703973297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 401
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969770a1ac610d70800000000000000
+      internalID: 9007600171155429015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 396
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5d338fc26e5f8b0800000000000000
+      internalID: -5118932320619604529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 370
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248b35f1fcc80af20800000000000000
+      internalID: 3431897737268017218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 401
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b7620216dfe9c0800000000000000
+      internalID: -3895659779814083115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69296ea42b249e230800000000000000
+      internalID: 3668536704998216342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 294
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9333e99a5e60370800000000000000
+      internalID: 8288564680888367558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 349
+        width: 86
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a54ceb01aefa330800000000000000
+      internalID: 3724452774499605114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 348
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2742303ebc37e9a0800000000000000
+      internalID: -6203923174129514707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_24
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 314
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5714a9e334796a0800000000000000
+      internalID: -6442606805775190608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_25
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 331
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f171acf2693acf0800000000000000
+      internalID: -242184822949732480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fbcf2674913f240800000000000000
+      internalID: 4824227420238036867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 271
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b03e9e6a3e694f0800000000000000
+      internalID: -822219575920489642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 268
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f8ae447ebb9140800000000000000
+      internalID: 4727581640600647286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 267
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af3db81859de3960800000000000000
+      internalID: 7583737794933899169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 279
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a21af7a7b76509d0800000000000000
+      internalID: -2808724754100776286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_31
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 286
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57c2527e023a7970800000000000000
+      internalID: 8753363863376938842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 288
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad7bcff434beed50800000000000000
+      internalID: 6768545429707259309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 289
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4af057488c0340800000000000000
+      internalID: 4831386340144336068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_34
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 259
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7202acfe95a29ba90800000000000000
+      internalID: -7297755155413721049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_35
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 311
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b222a022082a0530800000000000000
+      internalID: 3821911223379829425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f09c8b0d6828c20800000000000000
+      internalID: 3207274115652718371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 242
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25511f40dd8b371b0800000000000000
+      internalID: -5659977047264389806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 239
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbea5ec68b059ba0800000000000000
+      internalID: -6082943048078398472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 256
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8780a7d49573070e0800000000000000
+      internalID: -2274256955130640264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 270
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ac057893f493620800000000000000
+      internalID: 2754319755615717967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 272
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257dcdb6e240a1ab0800000000000000
+      internalID: -5036708635835836590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_42
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 237
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3bf9e896a1e8830800000000000000
+      internalID: 4075223753483596787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_43
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 237
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befeca5dc597bd3f0800000000000000
+      internalID: -874972262964596757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_44
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 245
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8bdc8469244f40800000000000000
+      internalID: 5711735739249298109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_45
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 246
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d66795e23936770800000000000000
+      internalID: 8602881540486491507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 198
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1357973d9521230800000000000000
+      internalID: 3608045016287883738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 197
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a57d19a6cad5650800000000000000
+      internalID: 6223319833809214014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_48
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 198
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fa2d189df706ac0800000000000000
+      internalID: -3863947908121186499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8c4de2cdb53fab0800000000000000
+      internalID: -4975532162077636359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_50
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 204
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a11a6e3e96103c20800000000000000
+      internalID: 3184069805458723238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 58
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e7b730ed30a5b0800000000000000
+      internalID: -5359215523354122793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 187
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc5d1621b1d9c960800000000000000
+      internalID: 7622854403080150209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 151
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba99298162058240800000000000000
+      internalID: 4793239996342049468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 216
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07adcc1768728fe60800000000000000
+      internalID: 7996184596784667248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_55
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 188
+        width: 115
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbddb3c441865bf90800000000000000
+      internalID: -6938525214506754628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_56
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 199
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6946837872db730800000000000000
+      internalID: 4016409904404535038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_57
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 198
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7c68f6b439e55c0800000000000000
+      internalID: -4224777448224012308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 142
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da26a8103a2007050800000000000000
+      internalID: 5796135619554599597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 149
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d324a8701c05f2720800000000000000
+      internalID: 2823564281370001981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 147
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9878ec44300d4ef0800000000000000
+      internalID: -122441390240532326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_61
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 192
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8fbebf2984c3960800000000000000
+      internalID: 7583015668714043640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_62
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 153
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f94ff799846cafc0800000000000000
+      internalID: -3482297869740848650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_63
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 154
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a160518cb88961d50800000000000000
+      internalID: 6707716421139629594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_64
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 75
+        width: 46
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e406fc34f1723070800000000000000
+      internalID: 8084649574892176615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_65
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 135
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8b0641665aa8580800000000000000
+      internalID: -8824058662031935279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 130
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8dcf12776581050800000000000000
+      internalID: 5771457992146606296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_67
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 133
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72021a3d2a16b36f0800000000000000
+      internalID: -703861564790202329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_68
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 134
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ecc929611d4d650800000000000000
+      internalID: 6256855677203697210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_69
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 144
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433cec0770b2731a0800000000000000
+      internalID: -6829942998926703820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_70
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 148
+        width: 72
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b1cdd32e46cf240800000000000000
+      internalID: 4826843823497550657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_71
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 55
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95939e1ec09bfbec0800000000000000
+      internalID: -3548914516363757223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_72
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 108
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9055304656dc810800000000000000
+      internalID: 1787196107362994643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_73
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 85
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda595bb89ae5edd0800000000000000
+      internalID: -2457300079961613603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 95
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf77b5dea89fdb00800000000000000
+      internalID: 855570330900987828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bf2be0005d78730800000000000000
+      internalID: 4001400990165302084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_76
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 98
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98808f24af4dc4c30800000000000000
+      internalID: 4345081911836149897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_77
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 61
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dba3e5abc2b37b90800000000000000
+      internalID: -7245250787777729584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_78
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 72
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f234cde6c32f7070800000000000000
+      internalID: 8106237191589737201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_79
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 61
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b964981e505d6530800000000000000
+      internalID: 3849821621541169586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_80
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 62
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d50ed190b788b0800000000000000
+      internalID: -5149953508333203381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_81
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 54
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d936c135b3cff340800000000000000
+      internalID: 4899850102593960405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_82
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 57
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366527e1ff46e120800000000000000
+      internalID: 2442727748278773303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_83
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 61
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef056514c8ead6db0800000000000000
+      internalID: -4796986110664879874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_84
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 77
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58426dde9ecd1c60800000000000000
+      internalID: 7790610112135186526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48daac61274ee1fc0800000000000000
+      internalID: -3522126679897363068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_86
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 66
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3070a7209d5fde240800000000000000
+      internalID: 4822781088381929219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 70
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e704028abe3a830800000000000000
+      internalID: 4081364794655931931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 54
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bfeb4297a0be040800000000000000
+      internalID: 4677844153378208555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_89
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 54
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7362dd2a06170770800000000000000
+      internalID: 8576848248324645756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_90
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 55
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c74e5fa43725340800000000000000
+      internalID: 4851066514421611661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 231
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd6f97999ab4400800000000000000
+      internalID: 309527476046322763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_92
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf47f6b64cf9de50800000000000000
+      internalID: 6834771290159009742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_93
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a5d778406818730800000000000000
+      internalID: 3999625298092841499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_94
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e844e982f860d020800000000000000
+      internalID: 2364505195274324192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_95
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a00f952d8cf81120800000000000000
+      internalID: 2384933685844443303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies NPCs(1)_96
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f7dddf38bc5fc80800000000000000
+      internalID: -8289495771345223927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

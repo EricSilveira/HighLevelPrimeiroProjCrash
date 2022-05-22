@@ -1,0 +1,3720 @@
+fileFormatVersion: 2
+guid: 02863bc6cc41cf7469b57b06a9189f5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6241781706625783313
+    second: Wii - Crash Mind Over Mutant - Title Screen_0
+  - first:
+      213: 5021088982194828333
+    second: Wii - Crash Mind Over Mutant - Title Screen_1
+  - first:
+      213: 973197079931345180
+    second: Wii - Crash Mind Over Mutant - Title Screen_2
+  - first:
+      213: -5061353958438065245
+    second: Wii - Crash Mind Over Mutant - Title Screen_3
+  - first:
+      213: 1878851259609656904
+    second: Wii - Crash Mind Over Mutant - Title Screen_4
+  - first:
+      213: 682282635420252047
+    second: Wii - Crash Mind Over Mutant - Title Screen_5
+  - first:
+      213: -3796798328443143853
+    second: Wii - Crash Mind Over Mutant - Title Screen_6
+  - first:
+      213: 9152324798729720558
+    second: Wii - Crash Mind Over Mutant - Title Screen_7
+  - first:
+      213: -3826730871619326710
+    second: Wii - Crash Mind Over Mutant - Title Screen_8
+  - first:
+      213: 1913153152858415958
+    second: Wii - Crash Mind Over Mutant - Title Screen_9
+  - first:
+      213: 1559977111931804316
+    second: Wii - Crash Mind Over Mutant - Title Screen_10
+  - first:
+      213: -6019877773191112626
+    second: Wii - Crash Mind Over Mutant - Title Screen_11
+  - first:
+      213: 3144153444885653319
+    second: Wii - Crash Mind Over Mutant - Title Screen_12
+  - first:
+      213: -32450993924317726
+    second: Wii - Crash Mind Over Mutant - Title Screen_13
+  - first:
+      213: -4090570404342919412
+    second: Wii - Crash Mind Over Mutant - Title Screen_14
+  - first:
+      213: 2201101750975388532
+    second: Wii - Crash Mind Over Mutant - Title Screen_15
+  - first:
+      213: -6250799791720937246
+    second: Wii - Crash Mind Over Mutant - Title Screen_16
+  - first:
+      213: 1340295004703192678
+    second: Wii - Crash Mind Over Mutant - Title Screen_17
+  - first:
+      213: 6836283568189986306
+    second: Wii - Crash Mind Over Mutant - Title Screen_18
+  - first:
+      213: -6111887339238936279
+    second: Wii - Crash Mind Over Mutant - Title Screen_19
+  - first:
+      213: -1065158258370696287
+    second: Wii - Crash Mind Over Mutant - Title Screen_20
+  - first:
+      213: -3007277346562059806
+    second: Wii - Crash Mind Over Mutant - Title Screen_21
+  - first:
+      213: -7804160526484578084
+    second: Wii - Crash Mind Over Mutant - Title Screen_22
+  - first:
+      213: -7769149331040903284
+    second: Wii - Crash Mind Over Mutant - Title Screen_23
+  - first:
+      213: -2164974743069227187
+    second: Wii - Crash Mind Over Mutant - Title Screen_24
+  - first:
+      213: 4774436792858431059
+    second: Wii - Crash Mind Over Mutant - Title Screen_25
+  - first:
+      213: -1714864504351010573
+    second: Wii - Crash Mind Over Mutant - Title Screen_26
+  - first:
+      213: -3482229873255034704
+    second: Wii - Crash Mind Over Mutant - Title Screen_27
+  - first:
+      213: -3607515944310986982
+    second: Wii - Crash Mind Over Mutant - Title Screen_28
+  - first:
+      213: -5675968384907626531
+    second: Wii - Crash Mind Over Mutant - Title Screen_29
+  - first:
+      213: -7335813410145088820
+    second: Wii - Crash Mind Over Mutant - Title Screen_30
+  - first:
+      213: 847926004621031933
+    second: Wii - Crash Mind Over Mutant - Title Screen_31
+  - first:
+      213: 4275618591575271766
+    second: Wii - Crash Mind Over Mutant - Title Screen_32
+  - first:
+      213: -1786777850975505709
+    second: Wii - Crash Mind Over Mutant - Title Screen_33
+  - first:
+      213: 4536088335135609092
+    second: Wii - Crash Mind Over Mutant - Title Screen_34
+  - first:
+      213: -5003835409797624395
+    second: Wii - Crash Mind Over Mutant - Title Screen_35
+  - first:
+      213: -8196932616476910469
+    second: Wii - Crash Mind Over Mutant - Title Screen_36
+  - first:
+      213: -2212641920010924423
+    second: Wii - Crash Mind Over Mutant - Title Screen_37
+  - first:
+      213: 5022859031167956078
+    second: Wii - Crash Mind Over Mutant - Title Screen_38
+  - first:
+      213: -7418631001148601953
+    second: Wii - Crash Mind Over Mutant - Title Screen_39
+  - first:
+      213: -7010252063342276968
+    second: Wii - Crash Mind Over Mutant - Title Screen_40
+  - first:
+      213: -368320997309895855
+    second: Wii - Crash Mind Over Mutant - Title Screen_41
+  - first:
+      213: 2220239455904126431
+    second: Wii - Crash Mind Over Mutant - Title Screen_42
+  - first:
+      213: 5598916084037550916
+    second: Wii - Crash Mind Over Mutant - Title Screen_43
+  - first:
+      213: 5272079718244203446
+    second: Wii - Crash Mind Over Mutant - Title Screen_44
+  - first:
+      213: 4220026666656151579
+    second: Wii - Crash Mind Over Mutant - Title Screen_45
+  - first:
+      213: 5248941280397717249
+    second: Wii - Crash Mind Over Mutant - Title Screen_46
+  - first:
+      213: -2950203037292074864
+    second: Wii - Crash Mind Over Mutant - Title Screen_47
+  - first:
+      213: 3367767028209566101
+    second: Wii - Crash Mind Over Mutant - Title Screen_48
+  - first:
+      213: 698594463168048594
+    second: Wii - Crash Mind Over Mutant - Title Screen_49
+  - first:
+      213: 3353728618312010944
+    second: Wii - Crash Mind Over Mutant - Title Screen_50
+  - first:
+      213: -1851004249947477615
+    second: Wii - Crash Mind Over Mutant - Title Screen_51
+  - first:
+      213: 6212763638042706190
+    second: Wii - Crash Mind Over Mutant - Title Screen_52
+  - first:
+      213: 6545557427888176896
+    second: Wii - Crash Mind Over Mutant - Title Screen_53
+  - first:
+      213: -4911168182941382649
+    second: Wii - Crash Mind Over Mutant - Title Screen_54
+  - first:
+      213: -8018283473827354760
+    second: Wii - Crash Mind Over Mutant - Title Screen_55
+  - first:
+      213: -4525397428539825216
+    second: Wii - Crash Mind Over Mutant - Title Screen_56
+  - first:
+      213: -5868492816640731931
+    second: Wii - Crash Mind Over Mutant - Title Screen_57
+  - first:
+      213: 7376761545570527800
+    second: Wii - Crash Mind Over Mutant - Title Screen_58
+  - first:
+      213: -6330939456955712206
+    second: Wii - Crash Mind Over Mutant - Title Screen_59
+  - first:
+      213: -1638010965427250200
+    second: Wii - Crash Mind Over Mutant - Title Screen_60
+  - first:
+      213: -3237886631962418399
+    second: Wii - Crash Mind Over Mutant - Title Screen_61
+  - first:
+      213: 31439457930526643
+    second: Wii - Crash Mind Over Mutant - Title Screen_62
+  - first:
+      213: -345635857016666710
+    second: Wii - Crash Mind Over Mutant - Title Screen_63
+  - first:
+      213: 1236006767629246512
+    second: Wii - Crash Mind Over Mutant - Title Screen_64
+  - first:
+      213: -7763029721793516289
+    second: Wii - Crash Mind Over Mutant - Title Screen_65
+  - first:
+      213: -5085040556089592704
+    second: Wii - Crash Mind Over Mutant - Title Screen_66
+  - first:
+      213: -5228053136867752776
+    second: Wii - Crash Mind Over Mutant - Title Screen_67
+  - first:
+      213: 8495714405459902965
+    second: Wii - Crash Mind Over Mutant - Title Screen_68
+  - first:
+      213: 1232109632182800646
+    second: Wii - Crash Mind Over Mutant - Title Screen_69
+  - first:
+      213: -5628311802321136910
+    second: Wii - Crash Mind Over Mutant - Title Screen_70
+  - first:
+      213: -8517995036723008344
+    second: Wii - Crash Mind Over Mutant - Title Screen_71
+  - first:
+      213: -4091466318261077813
+    second: Wii - Crash Mind Over Mutant - Title Screen_72
+  - first:
+      213: 3782610097176178337
+    second: Wii - Crash Mind Over Mutant - Title Screen_73
+  - first:
+      213: -5617474447407857863
+    second: Wii - Crash Mind Over Mutant - Title Screen_74
+  - first:
+      213: 3275753168358402030
+    second: Wii - Crash Mind Over Mutant - Title Screen_75
+  - first:
+      213: -822947351443747778
+    second: Wii - Crash Mind Over Mutant - Title Screen_76
+  - first:
+      213: 1845150684741810690
+    second: Wii - Crash Mind Over Mutant - Title Screen_77
+  - first:
+      213: 6456421061120658428
+    second: Wii - Crash Mind Over Mutant - Title Screen_78
+  - first:
+      213: 7740180529538092786
+    second: Wii - Crash Mind Over Mutant - Title Screen_79
+  - first:
+      213: -3977371146621965632
+    second: Wii - Crash Mind Over Mutant - Title Screen_80
+  - first:
+      213: 655499120306731047
+    second: Wii - Crash Mind Over Mutant - Title Screen_81
+  - first:
+      213: -7769728395530833735
+    second: Wii - Crash Mind Over Mutant - Title Screen_82
+  - first:
+      213: -7916135801736394216
+    second: Wii - Crash Mind Over Mutant - Title Screen_83
+  - first:
+      213: -1458919947010258437
+    second: Wii - Crash Mind Over Mutant - Title Screen_84
+  - first:
+      213: -7861634931830796135
+    second: Wii - Crash Mind Over Mutant - Title Screen_85
+  - first:
+      213: 7051947043222978958
+    second: Wii - Crash Mind Over Mutant - Title Screen_86
+  - first:
+      213: -7974364483618764206
+    second: Wii - Crash Mind Over Mutant - Title Screen_87
+  - first:
+      213: 5358448116251526212
+    second: Wii - Crash Mind Over Mutant - Title Screen_88
+  - first:
+      213: 4595288590471411187
+    second: Wii - Crash Mind Over Mutant - Title Screen_89
+  - first:
+      213: -4948419262041358708
+    second: Wii - Crash Mind Over Mutant - Title Screen_90
+  - first:
+      213: 8185753730782165389
+    second: Wii - Crash Mind Over Mutant - Title Screen_91
+  - first:
+      213: 1511215449410531161
+    second: Wii - Crash Mind Over Mutant - Title Screen_92
+  - first:
+      213: -7545780437577304041
+    second: Wii - Crash Mind Over Mutant - Title Screen_93
+  - first:
+      213: 3528941787685540766
+    second: Wii - Crash Mind Over Mutant - Title Screen_94
+  - first:
+      213: -4962568702661383240
+    second: Wii - Crash Mind Over Mutant - Title Screen_95
+  - first:
+      213: -6719068003574714379
+    second: Wii - Crash Mind Over Mutant - Title Screen_96
+  - first:
+      213: -7607757864836087177
+    second: Wii - Crash Mind Over Mutant - Title Screen_97
+  - first:
+      213: 7398644515282770807
+    second: Wii - Crash Mind Over Mutant - Title Screen_98
+  - first:
+      213: 2978163562165727206
+    second: Wii - Crash Mind Over Mutant - Title Screen_99
+  - first:
+      213: -8181174270090365408
+    second: Wii - Crash Mind Over Mutant - Title Screen_100
+  - first:
+      213: -5975097681502234212
+    second: Wii - Crash Mind Over Mutant - Title Screen_101
+  - first:
+      213: 3523189013599328326
+    second: Wii - Crash Mind Over Mutant - Title Screen_102
+  - first:
+      213: -7412798090390702306
+    second: Wii - Crash Mind Over Mutant - Title Screen_103
+  - first:
+      213: -3074478753600982989
+    second: Wii - Crash Mind Over Mutant - Title Screen_104
+  - first:
+      213: -4759099617224956957
+    second: Wii - Crash Mind Over Mutant - Title Screen_105
+  - first:
+      213: -3081138825745853736
+    second: Wii - Crash Mind Over Mutant - Title Screen_106
+  - first:
+      213: 6800187019153586876
+    second: Wii - Crash Mind Over Mutant - Title Screen_107
+  - first:
+      213: -466313446252344375
+    second: Wii - Crash Mind Over Mutant - Title Screen_108
+  - first:
+      213: -7139807640448019100
+    second: Wii - Crash Mind Over Mutant - Title Screen_109
+  - first:
+      213: 4632771066347004565
+    second: Wii - Crash Mind Over Mutant - Title Screen_110
+  - first:
+      213: 6813244636860489698
+    second: Wii - Crash Mind Over Mutant - Title Screen_111
+  - first:
+      213: 5565213309251091350
+    second: Wii - Crash Mind Over Mutant - Title Screen_112
+  - first:
+      213: 1631675928088958510
+    second: Wii - Crash Mind Over Mutant - Title Screen_113
+  - first:
+      213: -8735827622569697836
+    second: Wii - Crash Mind Over Mutant - Title Screen_114
+  - first:
+      213: -4465817413725568888
+    second: Wii - Crash Mind Over Mutant - Title Screen_115
+  - first:
+      213: 8826982541013810753
+    second: Wii - Crash Mind Over Mutant - Title Screen_116
+  - first:
+      213: -3412778339035945078
+    second: Wii - Crash Mind Over Mutant - Title Screen_117
+  - first:
+      213: -7213211674742728392
+    second: Wii - Crash Mind Over Mutant - Title Screen_118
+  - first:
+      213: -7543625372763259123
+    second: Wii - Crash Mind Over Mutant - Title Screen_119
+  - first:
+      213: -8908393723751796907
+    second: Wii - Crash Mind Over Mutant - Title Screen_120
+  - first:
+      213: -6148799624781695935
+    second: Wii - Crash Mind Over Mutant - Title Screen_121
+  - first:
+      213: -2815854860647478508
+    second: Wii - Crash Mind Over Mutant - Title Screen_122
+  - first:
+      213: -4016568087178613942
+    second: Wii - Crash Mind Over Mutant - Title Screen_123
+  - first:
+      213: -7675550715355248155
+    second: Wii - Crash Mind Over Mutant - Title Screen_124
+  - first:
+      213: 1787365817508773867
+    second: Wii - Crash Mind Over Mutant - Title Screen_125
+  - first:
+      213: 9023122869819273724
+    second: Wii - Crash Mind Over Mutant - Title Screen_126
+  - first:
+      213: -3468671990722296661
+    second: Wii - Crash Mind Over Mutant - Title Screen_127
+  - first:
+      213: 169457086240730225
+    second: Wii - Crash Mind Over Mutant - Title Screen_128
+  - first:
+      213: -2793144859521212028
+    second: Wii - Crash Mind Over Mutant - Title Screen_129
+  - first:
+      213: -1853539532634870376
+    second: Wii - Crash Mind Over Mutant - Title Screen_130
+  - first:
+      213: -4148527839868513252
+    second: Wii - Crash Mind Over Mutant - Title Screen_131
+  - first:
+      213: -486814127431677940
+    second: Wii - Crash Mind Over Mutant - Title Screen_132
+  - first:
+      213: -7457387502357524219
+    second: Wii - Crash Mind Over Mutant - Title Screen_133
+  - first:
+      213: 6436050078788431676
+    second: Wii - Crash Mind Over Mutant - Title Screen_134
+  - first:
+      213: -1747694329012650883
+    second: Wii - Crash Mind Over Mutant - Title Screen_135
+  - first:
+      213: 5358233084870917397
+    second: Wii - Crash Mind Over Mutant - Title Screen_136
+  - first:
+      213: -4986841763994431838
+    second: Wii - Crash Mind Over Mutant - Title Screen_137
+  - first:
+      213: -4171089840625869732
+    second: Wii - Crash Mind Over Mutant - Title Screen_138
+  - first:
+      213: 6054526761491932626
+    second: Wii - Crash Mind Over Mutant - Title Screen_139
+  - first:
+      213: -8520810357101556573
+    second: Wii - Crash Mind Over Mutant - Title Screen_140
+  - first:
+      213: 4197461489675716262
+    second: Wii - Crash Mind Over Mutant - Title Screen_141
+  - first:
+      213: 5235059429522570810
+    second: Wii - Crash Mind Over Mutant - Title Screen_142
+  - first:
+      213: 3070630212087734744
+    second: Wii - Crash Mind Over Mutant - Title Screen_143
+  - first:
+      213: 64433904958489659
+    second: Wii - Crash Mind Over Mutant - Title Screen_144
+  - first:
+      213: -3001120785874830468
+    second: Wii - Crash Mind Over Mutant - Title Screen_145
+  - first:
+      213: 1351534621294768738
+    second: Wii - Crash Mind Over Mutant - Title Screen_146
+  - first:
+      213: -6837036361481802080
+    second: Wii - Crash Mind Over Mutant - Title Screen_147
+  - first:
+      213: 4016209758373131952
+    second: Wii - Crash Mind Over Mutant - Title Screen_148
+  - first:
+      213: -2500463439787164665
+    second: Wii - Crash Mind Over Mutant - Title Screen_149
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 687
+        width: 560
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11616fc44634f9650800000000000000
+      internalID: 6241781706625783313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_1
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 893
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24b95193dd7ea540800000000000000
+      internalID: 5021088982194828333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 862
+        width: 380
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1951c5869d718d00800000000000000
+      internalID: 973197079931345180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 704
+        width: 390
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab28c8146572c9b0800000000000000
+      internalID: -5061353958438065245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 642
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e24da1445031a10800000000000000
+      internalID: 1878851259609656904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 644
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8734a82174f77900800000000000000
+      internalID: 682282635420252047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 643
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359795d59001f4bc0800000000000000
+      internalID: -3796798328443143853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 643
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee29841d9e6930f70800000000000000
+      internalID: 9152324798729720558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 642
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0deb121c88b4eac0800000000000000
+      internalID: -3826730871619326710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 654
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6536b0df7a2ec8a10800000000000000
+      internalID: 1913153152858415958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 640
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5f6e0be626a510800000000000000
+      internalID: 1559977111931804316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 640
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e489ca95f09157ca0800000000000000
+      internalID: -6019877773191112626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 647
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747eab156e642ab20800000000000000
+      internalID: 3144153444885653319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 650
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed58823ef5bc8ff0800000000000000
+      internalID: -32450993924317726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 644
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f0a68d3ef5b37c0800000000000000
+      internalID: -4090570404342919412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 644
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bd06d6162eb8e10800000000000000
+      internalID: 2201101750975388532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 644
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8436425b2b049a0800000000000000
+      internalID: -6250799791720937246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 644
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6667091a43fa99210800000000000000
+      internalID: 1340295004703192678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 644
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206ddc16fab5fde50800000000000000
+      internalID: 6836283568189986306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 644
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b47dd8d63e2ba0800000000000000
+      internalID: -6111887339238936279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 644
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abad3c153cc731f0800000000000000
+      internalID: -1065158258370696287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_21
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 547
+        width: 391
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1d611cf210446d0800000000000000
+      internalID: -3007277346562059806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 641
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0e2c0795d02b390800000000000000
+      internalID: -7804160526484578084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 644
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fd75c98df6e2490800000000000000
+      internalID: -7769149331040903284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 613
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d478aa311f674f1e0800000000000000
+      internalID: -2164974743069227187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 614
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec1e097f4324240800000000000000
+      internalID: 4774436792858431059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 613
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f05b3ca1d39338e0800000000000000
+      internalID: -1714864504351010573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 613
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b051624162acafc0800000000000000
+      internalID: -3482229873255034704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 621
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1729c1bc578fedc0800000000000000
+      internalID: -3607515944310986982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_29
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 622
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7bb3593d8ea31b0800000000000000
+      internalID: -5675968384907626531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 618
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca41cdf194f13a90800000000000000
+      internalID: -7335813410145088820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 613
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9b04d653074cb00800000000000000
+      internalID: 847926004621031933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 613
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65966e1b47c065b30800000000000000
+      internalID: 4275618591575271766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 612
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2b114e2071437e0800000000000000
+      internalID: -1786777850975505709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 613
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4011d8dbe4c63fe30800000000000000
+      internalID: 4536088335135609092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 613
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdcd7cc43ece8ab0800000000000000
+      internalID: -5003835409797624395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 613
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c941be635ae3e80800000000000000
+      internalID: -8196932616476910469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 613
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e4c9695ed1b41e0800000000000000
+      internalID: -2212641920010924423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_38
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 611
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f0a53da7c4b540800000000000000
+      internalID: 5022859031167956078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 611
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9946d8f86abb0990800000000000000
+      internalID: -7418631001148601953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 612
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ec88ae3e496be90800000000000000
+      internalID: -7010252063342276968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 612
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ba600210673eaf0800000000000000
+      internalID: -368320997309895855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_42
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 613
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d8759500efce10800000000000000
+      internalID: 2220239455904126431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 610
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443874c938853bd40800000000000000
+      internalID: 5598916084037550916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 580
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbbc7132903a2940800000000000000
+      internalID: 5272079718244203446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_45
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 580
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1837b805eb809a30800000000000000
+      internalID: 4220026666656151579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 582
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f6df0d84cf7d840800000000000000
+      internalID: 5248941280397717249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 580
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0986deae7f5ce07d0800000000000000
+      internalID: -2950203037292074864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 582
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59144bad446bcbe20800000000000000
+      internalID: 3367767028209566101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_49
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 582
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddaf2386f7e1b900800000000000000
+      internalID: 698594463168048594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 582
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc8c87d866da8e20800000000000000
+      internalID: 3353728618312010944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_51
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 580
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19964241179ef46e0800000000000000
+      internalID: -1851004249947477615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_52
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 580
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01cff6bc9b283650800000000000000
+      internalID: 6212763638042706190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_53
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 581
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fb1320dcd76da50800000000000000
+      internalID: 6545557427888176896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_54
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 581
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708049fde8608dbb0800000000000000
+      internalID: -4911168182941382649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 582
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877a22ac9a559b090800000000000000
+      internalID: -8018283473827354760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_56
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 582
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3ea6ce30f8231c0800000000000000
+      internalID: -4525397428539825216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_57
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 582
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4923930ecee8ea0800000000000000
+      internalID: -5868492816640731931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 581
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a2e7cba858f5660800000000000000
+      internalID: 7376761545570527800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_59
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 550
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d76ad4b1cf328a0800000000000000
+      internalID: -6330939456955712206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_60
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 551
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb938b94bd9449e0800000000000000
+      internalID: -1638010965427250200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 549
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e4e66347b013d0800000000000000
+      internalID: -3237886631962418399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 550
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf31e93502bf6000800000000000000
+      internalID: 31439457930526643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_63
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 549
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa542e0f40e043bf0800000000000000
+      internalID: -345635857016666710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 551
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03025844b9d272110800000000000000
+      internalID: 1236006767629246512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_65
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 551
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffca2bb299d244490800000000000000
+      internalID: -7763029721793516289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_66
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 551
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08433d15e8e4e69b0800000000000000
+      internalID: -5085040556089592704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_67
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 551
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b481261f593277b0800000000000000
+      internalID: -5228053136867752776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_68
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 551
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f14b925d37d6e570800000000000000
+      internalID: 8495714405459902965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_69
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 551
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601d796be25591110800000000000000
+      internalID: 1232109632182800646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_70
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 548
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f292816c3834e1b0800000000000000
+      internalID: -5628311802321136910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_71
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 550
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aca595f4a00ac980800000000000000
+      internalID: -8517995036723008344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_72
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 551
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8b291af013837c0800000000000000
+      internalID: -4091466318261077813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_73
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 547
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeedfd97d78e7430800000000000000
+      internalID: 3782610097176178337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_74
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 549
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fbb63b0c8ba02b0800000000000000
+      internalID: -5617474447407857863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_75
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 551
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7ecd3a620d57d20800000000000000
+      internalID: 3275753168358402030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_76
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 549
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cc8587ebd4494f0800000000000000
+      internalID: -822947351443747778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_77
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 549
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aba1195ca4b9910800000000000000
+      internalID: 1845150684741810690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_78
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 520
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb827c5fb0d99950800000000000000
+      internalID: 6456421061120658428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_79
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 516
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe4380be25aa6b60800000000000000
+      internalID: 7740180529538092786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_80
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 516
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caa5b1e30a8dc8c0800000000000000
+      internalID: -3977371146621965632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_81
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 520
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728b6781afcc81900800000000000000
+      internalID: 655499120306731047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_82
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 520
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b07e17a0316c2490800000000000000
+      internalID: -7769728395530833735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_83
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 520
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a00c70e6c342290800000000000000
+      internalID: -7916135801736394216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_84
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 520
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9c8b2b900e0cbe0800000000000000
+      internalID: -1458919947010258437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_85
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 520
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9905c66aeacd5e290800000000000000
+      internalID: -7861634931830796135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_86
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 520
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e810c26197c8dd160800000000000000
+      internalID: 7051947043222978958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_87
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 517
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a896c80cd555190800000000000000
+      internalID: -7974364483618764206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_88
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 520
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4448884eb280d5a40800000000000000
+      internalID: 5358448116251526212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_89
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 515
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5347b40aeb5cf30800000000000000
+      internalID: 4595288590471411187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_90
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 520
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ef25626eea35bb0800000000000000
+      internalID: -4948419262041358708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_91
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 520
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89791ee5a3a99170800000000000000
+      internalID: 8185753730782165389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 533
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6239c17ae8f410800000000000000
+      internalID: 1511215449410531161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_93
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 516
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718fc19dba0084790800000000000000
+      internalID: -7545780437577304041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_94
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 520
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e935708dbd159f030800000000000000
+      internalID: 3528941787685540766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 488
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bba568ce0a612bb0800000000000000
+      internalID: -4962568702661383240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_96
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 489
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff6c39ff3311c2a0800000000000000
+      internalID: -6719068003574714379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_97
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 488
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c2419780db6690800000000000000
+      internalID: -7607757864836087177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_98
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 488
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b52d8acf34da660800000000000000
+      internalID: 7398644515282770807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_99
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 488
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef66e51bff845920800000000000000
+      internalID: 2978163562165727206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_100
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 488
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b2b9d851a67e80800000000000000
+      internalID: -8181174270090365408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_101
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 486
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999ccbe050341da0800000000000000
+      internalID: -5975097681502234212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_102
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 489
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489520cdb1e4e030800000000000000
+      internalID: 3523189013599328326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_103
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 489
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1771965963702990800000000000000
+      internalID: -7412798090390702306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_104
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 489
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b026ecd14555d0800000000000000
+      internalID: -3074478753600982989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_105
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 489
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3eb98ec1844fdb0800000000000000
+      internalID: -4759099617224956957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_106
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 489
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d211c300989d35d0800000000000000
+      internalID: -3081138825745853736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_107
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 488
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba3fd2a01e1f5e50800000000000000
+      internalID: 6800187019153586876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_108
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 489
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb042a24625789f0800000000000000
+      internalID: -466313446252344375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_109
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 489
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465d97287ce4aec90800000000000000
+      internalID: -7139807640448019100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_110
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 379
+        width: 384
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59222574db8ea4040800000000000000
+      internalID: 4632771066347004565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_111
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 458
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef97eb26e18d8e50800000000000000
+      internalID: 6813244636860489698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_112
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 456
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bff2dd40c9b3d40800000000000000
+      internalID: 5565213309251091350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_113
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 458
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e265c429c90e4a610800000000000000
+      internalID: 1631675928088958510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_114
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 458
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd10b9cf0b14c680800000000000000
+      internalID: -8735827622569697836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_115
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 458
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880422f19ba3602c0800000000000000
+      internalID: -4465817413725568888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_116
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 458
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef3bb8addbf7a70800000000000000
+      internalID: 8826982541013810753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_117
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 458
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a876d9cae2063a0d0800000000000000
+      internalID: -3412778339035945078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_118
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 456
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8395245f23685eb90800000000000000
+      internalID: -7213211674742728392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_119
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 458
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f72d9f0b8af4790800000000000000
+      internalID: -7543625372763259123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_120
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 458
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f64706b170f5480800000000000000
+      internalID: -8908393723751796907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_121
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 458
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144f4d9a1531baaa0800000000000000
+      internalID: -6148799624781695935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_122
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 458
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bcc0c5ce21ce8d0800000000000000
+      internalID: -2815854860647478508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_123
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 457
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b6c8bfa984248c0800000000000000
+      internalID: -4016568087178613942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_124
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 458
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e941cb8a47fa7590800000000000000
+      internalID: -7675550715355248155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_125
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 457
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef394cbdbffdc810800000000000000
+      internalID: 1787365817508773867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_126
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 458
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f74c8172983d70800000000000000
+      internalID: 9023122869819273724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_127
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 427
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba486a6c33dccdfc0800000000000000
+      internalID: -3468671990722296661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_128
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 427
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c2d0672580a5200800000000000000
+      internalID: 169457086240730225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_129
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 427
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481a70a8c81cc39d0800000000000000
+      internalID: -2793144859521212028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_130
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 427
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89da7249d97e646e0800000000000000
+      internalID: -1853539532634870376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_131
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 427
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1491d3d8e77d66c0800000000000000
+      internalID: -4148527839868513252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_132
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 423
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c080bce512d7e39f0800000000000000
+      internalID: -486814127431677940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_133
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 427
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501da89d399028890800000000000000
+      internalID: -7457387502357524219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_134
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 427
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f2fce6271715950800000000000000
+      internalID: 6436050078788431676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 427
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c7c377441feb7e0800000000000000
+      internalID: -1747694329012650883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_136
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 427
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51df97ff9944c5a40800000000000000
+      internalID: 5358233084870917397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_137
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 427
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae870a46dd2bcab0800000000000000
+      internalID: -4986841763994431838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_138
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 427
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c114ba3ef4d16c0800000000000000
+      internalID: -4171089840625869732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_139
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 427
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5a2d5e200060450800000000000000
+      internalID: 6054526761491932626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_140
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 427
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac0e7a102000c980800000000000000
+      internalID: -8520810357101556573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_141
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 427
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c08a5cf0604a30800000000000000
+      internalID: 4197461489675716262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_142
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 425
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e70ca80daa6a840800000000000000
+      internalID: 5235059429522570810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_143
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 427
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d16214b8e11d9a20800000000000000
+      internalID: 3070630212087734744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_144
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 427
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34ca809b4ae4e000800000000000000
+      internalID: 64433904958489659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_145
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 394
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb3edbb80e956d0800000000000000
+      internalID: -3001120785874830468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_146
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262baebc39d91c210800000000000000
+      internalID: 1351534621294768738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_147
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 223
+        width: 387
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea27547a7fd11a0800000000000000
+      internalID: -6837036361481802080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 169
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6b9471f717cb730800000000000000
+      internalID: 4016209758373131952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Crash Mind Over Mutant - Title Screen_149
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 50
+        width: 391
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c72a1efb19c4dd0800000000000000
+      internalID: -2500463439787164665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

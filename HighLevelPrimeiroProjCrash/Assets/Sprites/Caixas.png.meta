@@ -1,0 +1,4368 @@
+fileFormatVersion: 2
+guid: 173145bc97399c343a113fa7809d1869
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6786629801587476536
+    second: Caixas_0
+  - first:
+      213: 4929527089088865730
+    second: Caixas_1
+  - first:
+      213: -876810650535497696
+    second: Caixas_2
+  - first:
+      213: 335662730620643148
+    second: Caixas_3
+  - first:
+      213: 8170005974189404907
+    second: Caixas_4
+  - first:
+      213: -1768483965630237964
+    second: Caixas_5
+  - first:
+      213: -665201226040163834
+    second: Caixas_6
+  - first:
+      213: 7469136256520524474
+    second: Caixas_7
+  - first:
+      213: -2900730402593279655
+    second: Caixas_8
+  - first:
+      213: -112129044666262799
+    second: Caixas_9
+  - first:
+      213: -1272904990119179424
+    second: Caixas_10
+  - first:
+      213: 2405904578151924725
+    second: Caixas_11
+  - first:
+      213: 2429778797054361182
+    second: Caixas_12
+  - first:
+      213: 3065764245667878405
+    second: Caixas_13
+  - first:
+      213: -4363087609167362191
+    second: Caixas_14
+  - first:
+      213: 6331231327906637261
+    second: Caixas_15
+  - first:
+      213: 8403852273522279945
+    second: Caixas_16
+  - first:
+      213: -445080107599476905
+    second: Caixas_17
+  - first:
+      213: 7090008943597040432
+    second: Caixas_18
+  - first:
+      213: 2476110269167256456
+    second: Caixas_19
+  - first:
+      213: 1323125284282447387
+    second: Caixas_20
+  - first:
+      213: -3383707498700160474
+    second: Caixas_21
+  - first:
+      213: -6688532958064751713
+    second: Caixas_22
+  - first:
+      213: -5112245645886046346
+    second: Caixas_23
+  - first:
+      213: -3416773696659896649
+    second: Caixas_24
+  - first:
+      213: -2781108406441149869
+    second: Caixas_25
+  - first:
+      213: -670650146744376732
+    second: Caixas_26
+  - first:
+      213: -4157855109854312151
+    second: Caixas_27
+  - first:
+      213: -8590223483959121974
+    second: Caixas_28
+  - first:
+      213: -1257425799054376453
+    second: Caixas_29
+  - first:
+      213: -5169190347545598431
+    second: Caixas_30
+  - first:
+      213: 5072009843536790876
+    second: Caixas_31
+  - first:
+      213: 6800368027902406263
+    second: Caixas_32
+  - first:
+      213: 216428182937195413
+    second: Caixas_33
+  - first:
+      213: -8016117562007015536
+    second: Caixas_34
+  - first:
+      213: -546115209543597849
+    second: Caixas_35
+  - first:
+      213: -8954619879056320038
+    second: Caixas_36
+  - first:
+      213: 5352561966696527154
+    second: Caixas_37
+  - first:
+      213: -183245531451259760
+    second: Caixas_38
+  - first:
+      213: 7137041320300411905
+    second: Caixas_39
+  - first:
+      213: -53297813151718049
+    second: Caixas_40
+  - first:
+      213: -1840584326828957369
+    second: Caixas_41
+  - first:
+      213: 4290565976778136269
+    second: Caixas_42
+  - first:
+      213: 4232259917161230349
+    second: Caixas_43
+  - first:
+      213: -5875208225016913091
+    second: Caixas_44
+  - first:
+      213: 7351158981515630447
+    second: Caixas_45
+  - first:
+      213: 1138810994071801246
+    second: Caixas_46
+  - first:
+      213: -6923056183950427902
+    second: Caixas_47
+  - first:
+      213: -5728766621683183302
+    second: Caixas_48
+  - first:
+      213: 561420328384436873
+    second: Caixas_49
+  - first:
+      213: -5367983481292046371
+    second: Caixas_50
+  - first:
+      213: -4286306136254128476
+    second: Caixas_51
+  - first:
+      213: 7237504394255520002
+    second: Caixas_52
+  - first:
+      213: -222750160668645547
+    second: Caixas_53
+  - first:
+      213: -2488700420342918974
+    second: Caixas_54
+  - first:
+      213: -2139502814095167589
+    second: Caixas_55
+  - first:
+      213: -6845592529850181662
+    second: Caixas_56
+  - first:
+      213: 8507681934173313683
+    second: Caixas_57
+  - first:
+      213: -6962172384807716175
+    second: Caixas_58
+  - first:
+      213: -7926556927399135926
+    second: Caixas_59
+  - first:
+      213: -7617394133872736233
+    second: Caixas_60
+  - first:
+      213: 773899160149317598
+    second: Caixas_61
+  - first:
+      213: -2544585134179000702
+    second: Caixas_62
+  - first:
+      213: -2722484034519572945
+    second: Caixas_63
+  - first:
+      213: -3484599642557664359
+    second: Caixas_64
+  - first:
+      213: -6351753594731040436
+    second: Caixas_65
+  - first:
+      213: 4657357751641151679
+    second: Caixas_66
+  - first:
+      213: 6144730133608470260
+    second: Caixas_67
+  - first:
+      213: 6379687966406509417
+    second: Caixas_68
+  - first:
+      213: 984579581418094872
+    second: Caixas_69
+  - first:
+      213: -1897244845025644881
+    second: Caixas_70
+  - first:
+      213: 5064584735649498604
+    second: Caixas_71
+  - first:
+      213: -5533931957807753496
+    second: Caixas_72
+  - first:
+      213: -4223344584947359792
+    second: Caixas_73
+  - first:
+      213: -913340289552001319
+    second: Caixas_74
+  - first:
+      213: -6715851486729193300
+    second: Caixas_75
+  - first:
+      213: 4262207147696388613
+    second: Caixas_76
+  - first:
+      213: 2393377525295310137
+    second: Caixas_77
+  - first:
+      213: -8752125680325348951
+    second: Caixas_78
+  - first:
+      213: -3336819705796131336
+    second: Caixas_79
+  - first:
+      213: -7151922860607148625
+    second: Caixas_80
+  - first:
+      213: 8902086273041064878
+    second: Caixas_81
+  - first:
+      213: -3172820855148632540
+    second: Caixas_82
+  - first:
+      213: -7489323037502209772
+    second: Caixas_83
+  - first:
+      213: 3999872360177816362
+    second: Caixas_84
+  - first:
+      213: -3503385731455467831
+    second: Caixas_85
+  - first:
+      213: -5843097919753795530
+    second: Caixas_86
+  - first:
+      213: 991653110458286491
+    second: Caixas_87
+  - first:
+      213: -9015994960300053138
+    second: Caixas_88
+  - first:
+      213: 3648431306419992374
+    second: Caixas_89
+  - first:
+      213: 1027565678591240081
+    second: Caixas_90
+  - first:
+      213: -9180317954561403236
+    second: Caixas_91
+  - first:
+      213: -6531588765897554303
+    second: Caixas_92
+  - first:
+      213: -8983066891706965559
+    second: Caixas_93
+  - first:
+      213: 4784030108596046792
+    second: Caixas_94
+  - first:
+      213: 430877799425813886
+    second: Caixas_95
+  - first:
+      213: -8345791519135926534
+    second: Caixas_96
+  - first:
+      213: -8684817242370974594
+    second: Caixas_97
+  - first:
+      213: 3856740557680407243
+    second: Caixas_98
+  - first:
+      213: 2826291763545379410
+    second: Caixas_99
+  - first:
+      213: 4548772818990245128
+    second: Caixas_100
+  - first:
+      213: -3178842246316650105
+    second: Caixas_101
+  - first:
+      213: -5839236847642338004
+    second: Caixas_102
+  - first:
+      213: 7976516423959838661
+    second: Caixas_103
+  - first:
+      213: 6159961243527860624
+    second: Caixas_104
+  - first:
+      213: 3294663628591050135
+    second: Caixas_105
+  - first:
+      213: 2461509036652115225
+    second: Caixas_106
+  - first:
+      213: -6815321746494224361
+    second: Caixas_107
+  - first:
+      213: 2316748515080183280
+    second: Caixas_108
+  - first:
+      213: 1002482990423024435
+    second: Caixas_109
+  - first:
+      213: 1530663836686343284
+    second: Caixas_110
+  - first:
+      213: -4976100647282500156
+    second: Caixas_111
+  - first:
+      213: 2415526381936401825
+    second: Caixas_112
+  - first:
+      213: -3801487940488949996
+    second: Caixas_113
+  - first:
+      213: 5694413622195624901
+    second: Caixas_114
+  - first:
+      213: 8678116448213780184
+    second: Caixas_115
+  - first:
+      213: -7543839008992388727
+    second: Caixas_116
+  - first:
+      213: 4063652959813844832
+    second: Caixas_117
+  - first:
+      213: 1627751315128934589
+    second: Caixas_118
+  - first:
+      213: -4999556753649815079
+    second: Caixas_119
+  - first:
+      213: 6149569840521429818
+    second: Caixas_120
+  - first:
+      213: -9141812315875686609
+    second: Caixas_121
+  - first:
+      213: -3222996594195949329
+    second: Caixas_122
+  - first:
+      213: 7451103023784955842
+    second: Caixas_123
+  - first:
+      213: 4153700843427104535
+    second: Caixas_124
+  - first:
+      213: 8256881765935774284
+    second: Caixas_125
+  - first:
+      213: -6562375031656390224
+    second: Caixas_126
+  - first:
+      213: 6572820158760155223
+    second: Caixas_127
+  - first:
+      213: 491021774346443447
+    second: Caixas_128
+  - first:
+      213: 6261999829384026124
+    second: Caixas_129
+  - first:
+      213: 2852907645660450661
+    second: Caixas_130
+  - first:
+      213: -6563575146037860779
+    second: Caixas_131
+  - first:
+      213: -635289658547759690
+    second: Caixas_132
+  - first:
+      213: 1220860675282413788
+    second: Caixas_133
+  - first:
+      213: 4811521716722456715
+    second: Caixas_134
+  - first:
+      213: 968268714610879652
+    second: Caixas_135
+  - first:
+      213: 5327122105262675974
+    second: Caixas_136
+  - first:
+      213: -626822554860198941
+    second: Caixas_137
+  - first:
+      213: 2397571942474794176
+    second: Caixas_138
+  - first:
+      213: -8117170358930189817
+    second: Caixas_139
+  - first:
+      213: -1484862112638742789
+    second: Caixas_140
+  - first:
+      213: 9120001059290366796
+    second: Caixas_141
+  - first:
+      213: -2753756814919995017
+    second: Caixas_142
+  - first:
+      213: 1510136457828562284
+    second: Caixas_143
+  - first:
+      213: 8380062325907357406
+    second: Caixas_144
+  - first:
+      213: 6837300725746432513
+    second: Caixas_145
+  - first:
+      213: -239453198049336684
+    second: Caixas_146
+  - first:
+      213: -971872128168921178
+    second: Caixas_147
+  - first:
+      213: 9177537956186283623
+    second: Caixas_148
+  - first:
+      213: 3190666366970207239
+    second: Caixas_149
+  - first:
+      213: 6759563971180968234
+    second: Caixas_150
+  - first:
+      213: -7776248276816479551
+    second: Caixas_151
+  - first:
+      213: 6312947936002394125
+    second: Caixas_152
+  - first:
+      213: -2199491541168532649
+    second: Caixas_153
+  - first:
+      213: -9015827779762862584
+    second: Caixas_154
+  - first:
+      213: -390303298842345991
+    second: Caixas_155
+  - first:
+      213: 5577851800637878753
+    second: Caixas_156
+  - first:
+      213: -2327468046549959470
+    second: Caixas_157
+  - first:
+      213: -2894395489552136705
+    second: Caixas_158
+  - first:
+      213: -4547453374025031394
+    second: Caixas_159
+  - first:
+      213: -2088701486681034460
+    second: Caixas_160
+  - first:
+      213: 7957453237443858508
+    second: Caixas_161
+  - first:
+      213: -3988464973813150332
+    second: Caixas_162
+  - first:
+      213: 4335660690614828607
+    second: Caixas_163
+  - first:
+      213: -8911138331293181372
+    second: Caixas_164
+  - first:
+      213: -6950900422978764144
+    second: Caixas_165
+  - first:
+      213: -5240548897698480086
+    second: Caixas_166
+  - first:
+      213: -4829594086743124195
+    second: Caixas_167
+  - first:
+      213: 6491145887205121066
+    second: Caixas_168
+  - first:
+      213: -670126938207278594
+    second: Caixas_169
+  - first:
+      213: -4459427199651986803
+    second: Caixas_170
+  - first:
+      213: 5040048147004024857
+    second: Caixas_171
+  - first:
+      213: 4836439960978905875
+    second: Caixas_172
+  - first:
+      213: -963480030499194029
+    second: Caixas_173
+  - first:
+      213: 1646886635309854525
+    second: Caixas_174
+  - first:
+      213: -5944225502442737139
+    second: Caixas_175
+  - first:
+      213: 2409057465900431858
+    second: Caixas_176
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caixas_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c77c4e072c01d1a0800000000000000
+      internalID: -6786629801587476536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 487
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5aecf05c2396440800000000000000
+      internalID: 4929527089088865730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 487
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0207d8fdb51f4d3f0800000000000000
+      internalID: -876810650535497696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 487
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c472bfe997388a400800000000000000
+      internalID: 335662730620643148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 487
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2f060a521b16170800000000000000
+      internalID: 8170005974189404907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 487
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2b2adf3351577e0800000000000000
+      internalID: -1768483965630237964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_6
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 487
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602c8b1620bb4c6f0800000000000000
+      internalID: -665201226040163834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 516
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab295e42ad3b7a760800000000000000
+      internalID: 7469136256520524474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_8
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 516
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951704c41198eb7d0800000000000000
+      internalID: -2900730402593279655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_9
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 516
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad9ab5a33a17ef0800000000000000
+      internalID: -112129044666262799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_10
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 514
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bcf17d7abb55ee0800000000000000
+      internalID: -1272904990119179424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_11
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 516
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f34b30877d736120800000000000000
+      internalID: 2405904578151924725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 487
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e733141fe48b120800000000000000
+      internalID: 2429778797054361182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 487
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506902c9658cb8a20800000000000000
+      internalID: 3065764245667878405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 487
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177cba3afe23373c0800000000000000
+      internalID: -4363087609167362191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_15
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 487
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc523b2395d0dd750800000000000000
+      internalID: 6331231327906637261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 487
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90687240e1b70a470800000000000000
+      internalID: 8403852273522279945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 487
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c0f11002c2d9f0800000000000000
+      internalID: -445080107599476905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_18
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 487
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b179d195c46260800000000000000
+      internalID: 7090008943597040432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 487
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883496abb29ec5220800000000000000
+      internalID: 2476110269167256456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b163ef29f6fac5210800000000000000
+      internalID: 1323125284282447387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 431
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622c62425f7aa01d0800000000000000
+      internalID: -3383707498700160474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 431
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bce0646be8d23a0800000000000000
+      internalID: -6688532958064751713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 431
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fbc60cba7ad09b0800000000000000
+      internalID: -5112245645886046346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 431
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b640bcfc6e2590d0800000000000000
+      internalID: -3416773696659896649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 431
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35af838a3a48769d0800000000000000
+      internalID: -2781108406441149869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 431
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462ecbaae3f51b6f0800000000000000
+      internalID: -670650146744376732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 431
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929479d8ec45c46c0800000000000000
+      internalID: -4157855109854312151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_28
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 431
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e569114569c880800000000000000
+      internalID: -8590223483959121974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 431
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1c3fbd5e9bc8ee0800000000000000
+      internalID: -1257425799054376453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_30
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 431
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126aa2634c85348b0800000000000000
+      internalID: -5169190347545598431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 431
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c558b4d7416636640800000000000000
+      internalID: 5072009843536790876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_32
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 431
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eeb0501b2cf5e50800000000000000
+      internalID: 6800368027902406263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_33
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 431
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593da532948e00300800000000000000
+      internalID: 216428182937195413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_34
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 431
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f2dce6c8701c090800000000000000
+      internalID: -8016117562007015536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_35
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 431
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e047b04c1fcb68f0800000000000000
+      internalID: -546115209543597849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_36
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 448
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad95232e9accab380800000000000000
+      internalID: -8954619879056320038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_37
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2357637efbe184a40800000000000000
+      internalID: 5352561966696527154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_38
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 448
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948b27f82bf47df0800000000000000
+      internalID: -183245531451259760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_39
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 446
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c7ac3644ddb0360800000000000000
+      internalID: 7137041320300411905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5569cbdbe5a24ff0800000000000000
+      internalID: -53297813151718049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 408
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741653c7e4ee476e0800000000000000
+      internalID: -1840584326828957369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 408
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcadc3306072b8b30800000000000000
+      internalID: 4290565976778136269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 408
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00f48f98f10cba30800000000000000
+      internalID: 4232259917161230349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 408
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33e96e5f31177ea0800000000000000
+      internalID: -5875208225016913091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 408
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6759a44520940660800000000000000
+      internalID: 7351158981515630447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 420
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d85ffb09eddcf00800000000000000
+      internalID: 1138810994071801246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 420
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2093093a41d5cef90800000000000000
+      internalID: -6923056183950427902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_48
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 420
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3195712c155f70b0800000000000000
+      internalID: -5728766621683183302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_49
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 420
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a990b60d09ac700800000000000000
+      internalID: 561420328384436873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_50
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 420
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf3c6de6771185b0800000000000000
+      internalID: -5367983481292046371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_51
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 420
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aedef5674bf384c0800000000000000
+      internalID: -4286306136254128476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_52
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 420
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ddef86e7c07460800000000000000
+      internalID: 7237504394255520002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 378
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5572fa7b8e1a8ecf0800000000000000
+      internalID: -222750160668645547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_54
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 396
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c05815472c567dd0800000000000000
+      internalID: -2488700420342918974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 396
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fa8e1b685fe42e0800000000000000
+      internalID: -2139502814095167589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 396
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e756351dd19ff0a0800000000000000
+      internalID: -6845592529850181662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 394
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a986cb4ab511670800000000000000
+      internalID: 8507681934173313683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba708a6a15616f90800000000000000
+      internalID: -6962172384807716175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_59
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 366
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a457672a8763ff190800000000000000
+      internalID: -7926556927399135926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 366
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7180f58d464994690800000000000000
+      internalID: -7617394133872736233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 366
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed75ca49f217dba00800000000000000
+      internalID: 773899160149317598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_62
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 364
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e55806d41dfacd0800000000000000
+      internalID: -2544585134179000702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 284
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed9c7e13bc73ad0800000000000000
+      internalID: -2722484034519572945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 284
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993b5e8561734afc0800000000000000
+      internalID: -3484599642557664359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_65
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 284
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41fe3532c90ad7a0800000000000000
+      internalID: -6351753594731040436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 284
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb89b7a033242a040800000000000000
+      internalID: 4657357751641151679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_67
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 301
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f61f561087764550800000000000000
+      internalID: 6144730133608470260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_68
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 299
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9638e778764398850800000000000000
+      internalID: 6379687966406509417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 301
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811478ba9ede9ad00800000000000000
+      internalID: 984579581418094872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_70
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 301
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae2e409dd1aba5e0800000000000000
+      internalID: -1897244845025644881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 301
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce50147dbf4094640800000000000000
+      internalID: 5064584735649498604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 299
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6dfa354368333b0800000000000000
+      internalID: -5533931957807753496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 301
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df942ae97aa365c0800000000000000
+      internalID: -4223344584947359792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_74
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 301
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6533288d92353f0800000000000000
+      internalID: -913340289552001319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_75
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 301
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca83a39a7a08cc2a0800000000000000
+      internalID: -6715851486729193300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_76
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 301
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af29591d6662b30800000000000000
+      internalID: 4262207147696388613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_77
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 163
+        width: 169
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93561a8bd2cf63120800000000000000
+      internalID: 2393377525295310137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_78
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 287
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a132a280143a8680800000000000000
+      internalID: -8752125680325348951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f58f74282c31b1d0800000000000000
+      internalID: -3336819705796131336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_80
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 289
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade3800d044fbc90800000000000000
+      internalID: -7151922860607148625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_81
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36e70dc409a8b70800000000000000
+      internalID: 8902086273041064878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_82
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4262ae81e30e7f3d0800000000000000
+      internalID: -3172820855148632540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_83
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 289
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4110885a064901890800000000000000
+      internalID: -7489323037502209772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_84
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 289
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a235d4728b6628730800000000000000
+      internalID: 3999872360177816362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_85
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cebc6d2d39716fc0800000000000000
+      internalID: -3503385731455467831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_86
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384049666529eea0800000000000000
+      internalID: -5843097919753795530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_87
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 289
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91074dff3f03cd00800000000000000
+      internalID: 991653110458286491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d6a963a50c0e280800000000000000
+      internalID: -9015994960300053138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 289
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637f39661f4d1a230800000000000000
+      internalID: 3648431306419992374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_90
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19760d75a85a24e00800000000000000
+      internalID: 1027565678591240081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_91
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c961a31b575f89080800000000000000
+      internalID: -9180317954561403236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1868ebd8f922b55a0800000000000000
+      internalID: -6531588765897554303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_93
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1eb3e914cb55380800000000000000
+      internalID: -8983066891706965559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_94
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb04a1790a446240800000000000000
+      internalID: 4784030108596046792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_95
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 289
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7da0606319caf500800000000000000
+      internalID: 430877799425813886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af67f6cc4dacd2c80800000000000000
+      internalID: -8345791519135926534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_97
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 289
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c5a417bb4597780800000000000000
+      internalID: -8684817242370974594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_98
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 287
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2f1637a15e58530800000000000000
+      internalID: 3856740557680407243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521cb57261093720800000000000000
+      internalID: 2826291763545379410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 252
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805add747cc702f30800000000000000
+      internalID: 4548772818990245128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_101
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 252
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7819a47b1db72e3d0800000000000000
+      internalID: -3178842246316650105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_102
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 252
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d18e0560dd6fea0800000000000000
+      internalID: -5839236847642338004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_103
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 252
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cff13b1d6742be60800000000000000
+      internalID: 7976516423959838661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_104
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 252
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091d6a63d149c7550800000000000000
+      internalID: 6159961243527860624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79da1944d1ff8bd20800000000000000
+      internalID: 3294663628591050135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_106
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915301d5d69092220800000000000000
+      internalID: 2461509036652115225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_107
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 240
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718873e0bfc1b61a0800000000000000
+      internalID: -6815321746494224361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_108
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 240
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd9443ff7eb62020800000000000000
+      internalID: 2316748515080183280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 240
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3332989e7f889ed00800000000000000
+      internalID: 1002482990423024435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 240
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cd93056a20e3510800000000000000
+      internalID: 1530663836686343284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_111
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 240
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd922863d651fab0800000000000000
+      internalID: -4976100647282500156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_112
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 240
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad57e4427ca58120800000000000000
+      internalID: 2415526381936401825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_113
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 240
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f8939fbd66e3bc0800000000000000
+      internalID: -3801487940488949996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_114
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 240
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb9d13e40f960f40800000000000000
+      internalID: 5694413622195624901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_115
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6c1475eecde6870800000000000000
+      internalID: 8678116448213780184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989164ae366ee4790800000000000000
+      internalID: -7543839008992388727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f3b2836def46830800000000000000
+      internalID: 4063652959813844832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db06fe8623fe69610800000000000000
+      internalID: 1627751315128934589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_119
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 159
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d13c401f910e9ab0800000000000000
+      internalID: -4999556753649815079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_120
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 159
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a334cb92039a75550800000000000000
+      internalID: 6149569840521429818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_121
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2740f45222c12180800000000000000
+      internalID: -9141812315875686609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_122
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 159
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe818aa7cad9543d0800000000000000
+      internalID: -3222996594195949329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_123
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 179
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf8a85f8b2a76760800000000000000
+      internalID: 7451103023784955842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_124
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 179
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71786bbe8e8e4a930800000000000000
+      internalID: 4153700843427104535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_125
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 179
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a70032836569270800000000000000
+      internalID: 8256881765935774284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b16a3b7da2cde4a0800000000000000
+      internalID: -6562375031656390224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_127
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 123
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758fc6f2c19573b50800000000000000
+      internalID: 6572820158760155223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 123
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad6e4c3b570d600800000000000000
+      internalID: 491021774346443447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_129
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 123
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08ddf5daa717e650800000000000000
+      internalID: 6261999829384026124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_130
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 123
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f469c6360979720800000000000000
+      internalID: 2852907645660450661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_131
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 123
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556a4d31e2f79e4a0800000000000000
+      internalID: -6563575146037860779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_132
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 123
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b518c4eb6ffe27f0800000000000000
+      internalID: -635289658547759690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_133
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 123
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a376d05e51f010800000000000000
+      internalID: 1220860675282413788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_134
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 123
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d1524285f5c240800000000000000
+      internalID: 4811521716722456715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_135
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 123
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac618d044bff6d00800000000000000
+      internalID: 968268714610879652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_136
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 148
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6081057945dbde940800000000000000
+      internalID: 5327122105262675974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_137
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 148
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ea5815341d47f0800000000000000
+      internalID: -626822554860198941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_138
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 148
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c447a29af2e54120800000000000000
+      internalID: 2397571942474794176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_139
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 148
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702d2aea0940a5f80800000000000000
+      internalID: -8117170358930189817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_140
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 148
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe4bb396c5b46be0800000000000000
+      internalID: -1484862112638742789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_141
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 146
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c434032c4a0c09e70800000000000000
+      internalID: 9120001059290366796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_142
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771f1e054c0b8c9d0800000000000000
+      internalID: -2753756814919995017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_143
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 148
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65fc3b7b1515f410800000000000000
+      internalID: 1510136457828562284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_144
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 148
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede77533946fb4470800000000000000
+      internalID: 8380062325907357406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_145
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 123
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10af2a4d8c8f2ee50800000000000000
+      internalID: 6837300725746432513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_146
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 123
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49220f5c59a4dacf0800000000000000
+      internalID: -239453198049336684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_147
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 123
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a77369d2773382f0800000000000000
+      internalID: -971872128168921178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ed52f752a2d5f70800000000000000
+      internalID: 9177537956186283623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_149
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 94
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c9b08e726874c20800000000000000
+      internalID: 3190666366970207239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_150
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 94
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2935ca3e9bcecd50800000000000000
+      internalID: 6759563971180968234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_151
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 94
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca3c1f7467351490800000000000000
+      internalID: -7776248276816479551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_152
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0845fa43b81c9750800000000000000
+      internalID: 6312947936002394125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_153
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 110
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7535c22c816d971e0800000000000000
+      internalID: -2199491541168532649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_154
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 110
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806c227f66851e280800000000000000
+      internalID: -9015827779762862584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_155
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 110
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdb6d5b73d559af0800000000000000
+      internalID: -390303298842345991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_156
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e13bc2f8a2886d40800000000000000
+      internalID: 5577851800637878753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_157
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 110
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc3153a42c23bfd0800000000000000
+      internalID: -2327468046549959470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_158
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 110
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff580cd23aa05d7d0800000000000000
+      internalID: -2894395489552136705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_159
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 110
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e112690ff3334e0c0800000000000000
+      internalID: -4547453374025031394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_160
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 110
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421fb8470117303e0800000000000000
+      internalID: -2088701486681034460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_161
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 110
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409f9e1f8d8e6e60800000000000000
+      internalID: 7957453237443858508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_162
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 110
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d87c4fc3026a8c0800000000000000
+      internalID: -3988464973813150332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_163
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eb8b24d6c5b2c30800000000000000
+      internalID: 4335660690614828607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_164
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a17e2a6e6455480800000000000000
+      internalID: -8911138331293181372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_165
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0920d3b84e0798f90800000000000000
+      internalID: -6950900422978764144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_166
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a200e9c0b84d547b0800000000000000
+      internalID: -5240548897698480086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_167
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 49
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17595234c5d9fcb0800000000000000
+      internalID: -4829594086743124195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_168
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c5918face251a50800000000000000
+      internalID: 6491145887205121066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_169
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef92cb5a91b33b6f0800000000000000
+      internalID: -670126938207278594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_170
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 49
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d824707c69eec12c0800000000000000
+      internalID: -4459427199651986803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_171
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9186a0d1619d1f540800000000000000
+      internalID: 5040048147004024857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_172
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd6ab158c7e1340800000000000000
+      internalID: 4836439960978905875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_173
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 49
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bb9e9540801a2f0800000000000000
+      internalID: -963480030499194029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_174
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6bf25baaead610800000000000000
+      internalID: 1646886635309854525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_175
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 49
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02351e366ed18da0800000000000000
+      internalID: -5944225502442737139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caixas_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f97f726001be6120800000000000000
+      internalID: 2409057465900431858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
