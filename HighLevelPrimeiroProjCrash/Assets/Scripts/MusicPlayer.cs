@@ -1,23 +1,25 @@
-﻿using System.Collections;
+﻿/***================== Indice do codigo para entendimento ====================***/
+/*** 1.0   - Selecao de muusica inicial do jogo                               ***/
+/*****                                                                        ***/
+/**================== Fim Indice do codigo para entendimento =================***/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class MusicPlayer : MonoBehaviour
 {
-    //Para declaração da musica de fundo
+    //1.0   - Para declaracao da musica de fundo
     private static MusicPlayer mp;
 
-    // Metodo para inicializar variáveis ​​ou estados antes do início do aplicativo.
-    void Awake()
-    {
-        //Verifica se esta vazia a musica se não tiver ele inicia senão ele destroi o objeto
-        if (mp == null) { 
+    //1.0   - Metodo para inicializar variaveis ​​ou estados antes do inicio do aplicativo.
+    void Awake(){
+        //1.0   - Verifica se esta vazia a musica se nao tiver ele inicia senao ele destroi o objeto
+        if (mp == null){ 
             mp = this;
             DontDestroyOnLoad(gameObject);
-        } else
-        {
+        } else{
             Destroy(gameObject);
         }
     }
-
 }

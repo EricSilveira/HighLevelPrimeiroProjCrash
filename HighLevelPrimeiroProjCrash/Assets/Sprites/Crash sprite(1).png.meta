@@ -363,6 +363,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2824,6 +2825,120 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Crash sprite(1)_89: 8433096302999589355
+      Crash sprite(1)_9: -5467047415437068405
+      Crash sprite(1)_12: 2975063151596068756
+      Crash sprite(1)_73: 7581020765882093419
+      Crash sprite(1)_97: -9164793133580278068
+      Crash sprite(1)_18: 8134819130742699900
+      Crash sprite(1)_103: -7889507171453489301
+      Crash sprite(1)_78: 3109269165465233333
+      Crash sprite(1)_68: -6175378163699336837
+      Crash sprite(1)_82: -1173466854474573973
+      Crash sprite(1)_81: -3851388207938251652
+      Crash sprite(1)_111: 6182390085867647587
+      Crash sprite(1)_51: -520691591885303390
+      Crash sprite(1)_106: 8496686410061948379
+      Crash sprite(1)_92: 7584635576856712806
+      Crash sprite(1)_37: 6523618848162058223
+      Crash sprite(1)_17: -1342080255982940968
+      Crash sprite(1)_58: -1473953953164786382
+      Crash sprite(1)_57: -8818914322730198766
+      Crash sprite(1)_93: -2549515351863903759
+      Crash sprite(1)_86: -2979976392246595195
+      Crash sprite(1)_29: 7942548095430014983
+      Crash sprite(1)_76: 5550045320696127898
+      Crash sprite(1)_7: -685039000872454295
+      Crash sprite(1)_38: 8900758908390453511
+      Crash sprite(1)_50: 8775663258865859753
+      Crash sprite(1)_33: 8061645427568287115
+      Crash sprite(1)_35: 4105027452376710236
+      Crash sprite(1)_21: -3078903092070520188
+      Crash sprite(1)_53: -8196534120254293248
+      Crash sprite(1)_96: -3458903761160943277
+      Crash sprite(1)_71: 8698511846376722768
+      Crash sprite(1)_43: -8289102412824391644
+      Crash sprite(1)_48: -8790020348012569373
+      Crash sprite(1)_112: 649765925530404932
+      Crash sprite(1)_62: 2236823423262825103
+      Crash sprite(1)_56: -6151715614208925961
+      Crash sprite(1)_24: -5324374196721456007
+      Crash sprite(1)_63: -7998763758924483920
+      Crash sprite(1)_108: 8037979557897167025
+      Crash sprite(1)_30: -1832769873064990821
+      Crash sprite(1)_49: -3318257972256507272
+      Crash sprite(1)_22: 3668214032974275608
+      Crash sprite(1)_14: -37392054269793418
+      Crash sprite(1)_88: 5083200137033638429
+      Crash sprite(1)_104: 1686159663226098162
+      Crash sprite(1)_61: 2530505058711439767
+      Crash sprite(1)_40: 8968085528672813466
+      Crash sprite(1)_36: 16261970694043065
+      Crash sprite(1)_77: 6179224845440197922
+      Crash sprite(1)_69: -2168957072417698524
+      Crash sprite(1)_64: 1359990417502429748
+      Crash sprite(1)_6: -4909147893598153450
+      Crash sprite(1)_75: 5197074847343347115
+      Crash sprite(1)_60: -5164195869768353328
+      Crash sprite(1)_54: -2560096617646232482
+      Crash sprite(1)_25: -7796777176106017232
+      Crash sprite(1)_28: 2727150384694622799
+      Crash sprite(1)_100: -6133292265378473085
+      Crash sprite(1)_94: -185276708809023148
+      Crash sprite(1)_95: 8313965004486300868
+      Crash sprite(1)_109: -3614425515417978032
+      Crash sprite(1)_90: 3429274469463939662
+      Crash sprite(1)_105: 4975783197418796552
+      Crash sprite(1)_0: -1378899927025029825
+      Crash sprite(1)_102: -7618881314175199293
+      Crash sprite(1)_59: 1221952544045514624
+      Crash sprite(1)_15: -6931419534882732690
+      Crash sprite(1)_83: 6027937180798095757
+      Crash sprite(1)_70: -3638253634970376144
+      Crash sprite(1)_26: -289321715263372656
+      Crash sprite(1)_46: -955621323059864331
+      Crash sprite(1)_79: 1704366067798856575
+      Crash sprite(1)_4: -3000498888552164907
+      Crash sprite(1)_101: -150300856129093349
+      Crash sprite(1)_47: 5190899143662345293
+      Crash sprite(1)_85: -2546562793059923817
+      Crash sprite(1)_41: 7703817509397389940
+      Crash sprite(1)_52: -8817701943998079258
+      Crash sprite(1)_87: -3109423578248472284
+      Crash sprite(1)_27: -1147216195916793864
+      Crash sprite(1)_55: 1152388287798863863
+      Crash sprite(1)_8: 6473565097881923054
+      Crash sprite(1)_16: 1258841541434525571
+      Crash sprite(1)_5: 4491355934139231040
+      Crash sprite(1)_19: -6783033769064580177
+      Crash sprite(1)_1: -474852174863465242
+      Crash sprite(1)_39: -2667415511629102555
+      Crash sprite(1)_98: 2976174904654420846
+      Crash sprite(1)_45: 6401533513867633436
+      Crash sprite(1)_20: 3527857951595192821
+      Crash sprite(1)_65: 1799019811401600648
+      Crash sprite(1)_3: -8022392683624869832
+      Crash sprite(1)_99: 8760234020056932828
+      Crash sprite(1)_80: 1405376537876701408
+      Crash sprite(1)_67: 6805918065269902337
+      Crash sprite(1)_107: -3340089578986286123
+      Crash sprite(1)_11: 354209906215103740
+      Crash sprite(1)_110: -2747128406804279996
+      Crash sprite(1)_34: -73857855566039421
+      Crash sprite(1)_42: -984893971238663830
+      Crash sprite(1)_72: 8227321650331823606
+      Crash sprite(1)_13: 6086215362875407344
+      Crash sprite(1)_84: 1864547052695567001
+      Crash sprite(1)_91: 1141015081589140460
+      Crash sprite(1)_32: -6014976904576543389
+      Crash sprite(1)_10: 731260274658277308
+      Crash sprite(1)_66: -6503183973751368672
+      Crash sprite(1)_74: -3531685833214217495
+      Crash sprite(1)_23: 5919267582286406575
+      Crash sprite(1)_2: -2115315100005703832
+      Crash sprite(1)_31: -7376648352446353519
+      Crash sprite(1)_44: 894485190851294826
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

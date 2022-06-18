@@ -69,6 +69,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -472,6 +473,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      frutas ps_7: -1169427986909648972
+      frutas ps_4: -1592429727982176461
+      frutas ps_5: -5616418852096852356
+      frutas ps_1: -1745141810310569788
+      frutas ps_8: 5857563193251093154
+      frutas ps_0: -5640571193348196996
+      frutas ps_14: 5912259091950675704
+      frutas ps_9: -2263014058415030002
+      frutas ps_13: 3674831203650853990
+      frutas ps_6: 2186379547734591384
+      frutas ps_3: -7359477853476774170
+      frutas ps_2: -11368761877942140
+      frutas ps_11: 8658033539151257799
+      frutas ps_12: -7386802894750506882
+      frutas ps_10: -4179942113007574767
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -474,6 +474,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -3712,6 +3713,157 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Wii - Crash Mind Over Mutant - Title Screen_145: -3001120785874830468
+      Wii - Crash Mind Over Mutant - Title Screen_92: 1511215449410531161
+      Wii - Crash Mind Over Mutant - Title Screen_0: 6241781706625783313
+      Wii - Crash Mind Over Mutant - Title Screen_61: -3237886631962418399
+      Wii - Crash Mind Over Mutant - Title Screen_50: 3353728618312010944
+      Wii - Crash Mind Over Mutant - Title Screen_14: -4090570404342919412
+      Wii - Crash Mind Over Mutant - Title Screen_16: -6250799791720937246
+      Wii - Crash Mind Over Mutant - Title Screen_137: -4986841763994431838
+      Wii - Crash Mind Over Mutant - Title Screen_27: -3482229873255034704
+      Wii - Crash Mind Over Mutant - Title Screen_149: -2500463439787164665
+      Wii - Crash Mind Over Mutant - Title Screen_38: 5022859031167956078
+      Wii - Crash Mind Over Mutant - Title Screen_108: -466313446252344375
+      Wii - Crash Mind Over Mutant - Title Screen_17: 1340295004703192678
+      Wii - Crash Mind Over Mutant - Title Screen_109: -7139807640448019100
+      Wii - Crash Mind Over Mutant - Title Screen_139: 6054526761491932626
+      Wii - Crash Mind Over Mutant - Title Screen_110: 4632771066347004565
+      Wii - Crash Mind Over Mutant - Title Screen_60: -1638010965427250200
+      Wii - Crash Mind Over Mutant - Title Screen_130: -1853539532634870376
+      Wii - Crash Mind Over Mutant - Title Screen_132: -486814127431677940
+      Wii - Crash Mind Over Mutant - Title Screen_135: -1747694329012650883
+      Wii - Crash Mind Over Mutant - Title Screen_3: -5061353958438065245
+      Wii - Crash Mind Over Mutant - Title Screen_121: -6148799624781695935
+      Wii - Crash Mind Over Mutant - Title Screen_20: -1065158258370696287
+      Wii - Crash Mind Over Mutant - Title Screen_74: -5617474447407857863
+      Wii - Crash Mind Over Mutant - Title Screen_65: -7763029721793516289
+      Wii - Crash Mind Over Mutant - Title Screen_86: 7051947043222978958
+      Wii - Crash Mind Over Mutant - Title Screen_148: 4016209758373131952
+      Wii - Crash Mind Over Mutant - Title Screen_8: -3826730871619326710
+      Wii - Crash Mind Over Mutant - Title Screen_89: 4595288590471411187
+      Wii - Crash Mind Over Mutant - Title Screen_31: 847926004621031933
+      Wii - Crash Mind Over Mutant - Title Screen_80: -3977371146621965632
+      Wii - Crash Mind Over Mutant - Title Screen_127: -3468671990722296661
+      Wii - Crash Mind Over Mutant - Title Screen_147: -6837036361481802080
+      Wii - Crash Mind Over Mutant - Title Screen_134: 6436050078788431676
+      Wii - Crash Mind Over Mutant - Title Screen_64: 1236006767629246512
+      Wii - Crash Mind Over Mutant - Title Screen_95: -4962568702661383240
+      Wii - Crash Mind Over Mutant - Title Screen_24: -2164974743069227187
+      Wii - Crash Mind Over Mutant - Title Screen_67: -5228053136867752776
+      Wii - Crash Mind Over Mutant - Title Screen_15: 2201101750975388532
+      Wii - Crash Mind Over Mutant - Title Screen_46: 5248941280397717249
+      Wii - Crash Mind Over Mutant - Title Screen_69: 1232109632182800646
+      Wii - Crash Mind Over Mutant - Title Screen_91: 8185753730782165389
+      Wii - Crash Mind Over Mutant - Title Screen_94: 3528941787685540766
+      Wii - Crash Mind Over Mutant - Title Screen_123: -4016568087178613942
+      Wii - Crash Mind Over Mutant - Title Screen_25: 4774436792858431059
+      Wii - Crash Mind Over Mutant - Title Screen_41: -368320997309895855
+      Wii - Crash Mind Over Mutant - Title Screen_47: -2950203037292074864
+      Wii - Crash Mind Over Mutant - Title Screen_48: 3367767028209566101
+      Wii - Crash Mind Over Mutant - Title Screen_119: -7543625372763259123
+      Wii - Crash Mind Over Mutant - Title Screen_98: 7398644515282770807
+      Wii - Crash Mind Over Mutant - Title Screen_10: 1559977111931804316
+      Wii - Crash Mind Over Mutant - Title Screen_70: -5628311802321136910
+      Wii - Crash Mind Over Mutant - Title Screen_72: -4091466318261077813
+      Wii - Crash Mind Over Mutant - Title Screen_144: 64433904958489659
+      Wii - Crash Mind Over Mutant - Title Screen_19: -6111887339238936279
+      Wii - Crash Mind Over Mutant - Title Screen_35: -5003835409797624395
+      Wii - Crash Mind Over Mutant - Title Screen_140: -8520810357101556573
+      Wii - Crash Mind Over Mutant - Title Screen_40: -7010252063342276968
+      Wii - Crash Mind Over Mutant - Title Screen_23: -7769149331040903284
+      Wii - Crash Mind Over Mutant - Title Screen_49: 698594463168048594
+      Wii - Crash Mind Over Mutant - Title Screen_5: 682282635420252047
+      Wii - Crash Mind Over Mutant - Title Screen_52: 6212763638042706190
+      Wii - Crash Mind Over Mutant - Title Screen_45: 4220026666656151579
+      Wii - Crash Mind Over Mutant - Title Screen_78: 6456421061120658428
+      Wii - Crash Mind Over Mutant - Title Screen_44: 5272079718244203446
+      Wii - Crash Mind Over Mutant - Title Screen_66: -5085040556089592704
+      Wii - Crash Mind Over Mutant - Title Screen_102: 3523189013599328326
+      Wii - Crash Mind Over Mutant - Title Screen_68: 8495714405459902965
+      Wii - Crash Mind Over Mutant - Title Screen_58: 7376761545570527800
+      Wii - Crash Mind Over Mutant - Title Screen_103: -7412798090390702306
+      Wii - Crash Mind Over Mutant - Title Screen_59: -6330939456955712206
+      Wii - Crash Mind Over Mutant - Title Screen_81: 655499120306731047
+      Wii - Crash Mind Over Mutant - Title Screen_93: -7545780437577304041
+      Wii - Crash Mind Over Mutant - Title Screen_30: -7335813410145088820
+      Wii - Crash Mind Over Mutant - Title Screen_107: 6800187019153586876
+      Wii - Crash Mind Over Mutant - Title Screen_136: 5358233084870917397
+      Wii - Crash Mind Over Mutant - Title Screen_57: -5868492816640731931
+      Wii - Crash Mind Over Mutant - Title Screen_9: 1913153152858415958
+      Wii - Crash Mind Over Mutant - Title Screen_1: 5021088982194828333
+      Wii - Crash Mind Over Mutant - Title Screen_83: -7916135801736394216
+      Wii - Crash Mind Over Mutant - Title Screen_116: 8826982541013810753
+      Wii - Crash Mind Over Mutant - Title Screen_99: 2978163562165727206
+      Wii - Crash Mind Over Mutant - Title Screen_96: -6719068003574714379
+      Wii - Crash Mind Over Mutant - Title Screen_129: -2793144859521212028
+      Wii - Crash Mind Over Mutant - Title Screen_12: 3144153444885653319
+      Wii - Crash Mind Over Mutant - Title Screen_54: -4911168182941382649
+      Wii - Crash Mind Over Mutant - Title Screen_120: -8908393723751796907
+      Wii - Crash Mind Over Mutant - Title Screen_90: -4948419262041358708
+      Wii - Crash Mind Over Mutant - Title Screen_105: -4759099617224956957
+      Wii - Crash Mind Over Mutant - Title Screen_88: 5358448116251526212
+      Wii - Crash Mind Over Mutant - Title Screen_21: -3007277346562059806
+      Wii - Crash Mind Over Mutant - Title Screen_122: -2815854860647478508
+      Wii - Crash Mind Over Mutant - Title Screen_73: 3782610097176178337
+      Wii - Crash Mind Over Mutant - Title Screen_79: 7740180529538092786
+      Wii - Crash Mind Over Mutant - Title Screen_32: 4275618591575271766
+      Wii - Crash Mind Over Mutant - Title Screen_34: 4536088335135609092
+      Wii - Crash Mind Over Mutant - Title Screen_51: -1851004249947477615
+      Wii - Crash Mind Over Mutant - Title Screen_75: 3275753168358402030
+      Wii - Crash Mind Over Mutant - Title Screen_113: 1631675928088958510
+      Wii - Crash Mind Over Mutant - Title Screen_77: 1845150684741810690
+      Wii - Crash Mind Over Mutant - Title Screen_84: -1458919947010258437
+      Wii - Crash Mind Over Mutant - Title Screen_55: -8018283473827354760
+      Wii - Crash Mind Over Mutant - Title Screen_22: -7804160526484578084
+      Wii - Crash Mind Over Mutant - Title Screen_117: -3412778339035945078
+      Wii - Crash Mind Over Mutant - Title Screen_106: -3081138825745853736
+      Wii - Crash Mind Over Mutant - Title Screen_114: -8735827622569697836
+      Wii - Crash Mind Over Mutant - Title Screen_63: -345635857016666710
+      Wii - Crash Mind Over Mutant - Title Screen_118: -7213211674742728392
+      Wii - Crash Mind Over Mutant - Title Screen_4: 1878851259609656904
+      Wii - Crash Mind Over Mutant - Title Screen_76: -822947351443747778
+      Wii - Crash Mind Over Mutant - Title Screen_131: -4148527839868513252
+      Wii - Crash Mind Over Mutant - Title Screen_85: -7861634931830796135
+      Wii - Crash Mind Over Mutant - Title Screen_125: 1787365817508773867
+      Wii - Crash Mind Over Mutant - Title Screen_100: -8181174270090365408
+      Wii - Crash Mind Over Mutant - Title Screen_26: -1714864504351010573
+      Wii - Crash Mind Over Mutant - Title Screen_138: -4171089840625869732
+      Wii - Crash Mind Over Mutant - Title Screen_39: -7418631001148601953
+      Wii - Crash Mind Over Mutant - Title Screen_71: -8517995036723008344
+      Wii - Crash Mind Over Mutant - Title Screen_115: -4465817413725568888
+      Wii - Crash Mind Over Mutant - Title Screen_112: 5565213309251091350
+      Wii - Crash Mind Over Mutant - Title Screen_13: -32450993924317726
+      Wii - Crash Mind Over Mutant - Title Screen_37: -2212641920010924423
+      Wii - Crash Mind Over Mutant - Title Screen_56: -4525397428539825216
+      Wii - Crash Mind Over Mutant - Title Screen_133: -7457387502357524219
+      Wii - Crash Mind Over Mutant - Title Screen_28: -3607515944310986982
+      Wii - Crash Mind Over Mutant - Title Screen_53: 6545557427888176896
+      Wii - Crash Mind Over Mutant - Title Screen_29: -5675968384907626531
+      Wii - Crash Mind Over Mutant - Title Screen_82: -7769728395530833735
+      Wii - Crash Mind Over Mutant - Title Screen_97: -7607757864836087177
+      Wii - Crash Mind Over Mutant - Title Screen_126: 9023122869819273724
+      Wii - Crash Mind Over Mutant - Title Screen_146: 1351534621294768738
+      Wii - Crash Mind Over Mutant - Title Screen_43: 5598916084037550916
+      Wii - Crash Mind Over Mutant - Title Screen_36: -8196932616476910469
+      Wii - Crash Mind Over Mutant - Title Screen_18: 6836283568189986306
+      Wii - Crash Mind Over Mutant - Title Screen_87: -7974364483618764206
+      Wii - Crash Mind Over Mutant - Title Screen_11: -6019877773191112626
+      Wii - Crash Mind Over Mutant - Title Screen_104: -3074478753600982989
+      Wii - Crash Mind Over Mutant - Title Screen_128: 169457086240730225
+      Wii - Crash Mind Over Mutant - Title Screen_2: 973197079931345180
+      Wii - Crash Mind Over Mutant - Title Screen_101: -5975097681502234212
+      Wii - Crash Mind Over Mutant - Title Screen_141: 4197461489675716262
+      Wii - Crash Mind Over Mutant - Title Screen_33: -1786777850975505709
+      Wii - Crash Mind Over Mutant - Title Screen_7: 9152324798729720558
+      Wii - Crash Mind Over Mutant - Title Screen_62: 31439457930526643
+      Wii - Crash Mind Over Mutant - Title Screen_42: 2220239455904126431
+      Wii - Crash Mind Over Mutant - Title Screen_143: 3070630212087734744
+      Wii - Crash Mind Over Mutant - Title Screen_124: -7675550715355248155
+      Wii - Crash Mind Over Mutant - Title Screen_111: 6813244636860489698
+      Wii - Crash Mind Over Mutant - Title Screen_6: -3796798328443143853
+      Wii - Crash Mind Over Mutant - Title Screen_142: 5235059429522570810
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
